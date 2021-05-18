@@ -1,0 +1,2 @@
+# miner
+miner_job
